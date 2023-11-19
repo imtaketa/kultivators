@@ -11,5 +11,8 @@ title: "Контакти"
 - 095 882 30 67
 - 067 716 77 01
 
+**Адреса:**
+м. Кропивницький, вул. Інженерів 8
+
 **Електронна пошта:**
-[lvivska22@rambler.ru](mailto:lvivska22@rambler.ru)
+[lvivska22@rambler.ru](mailto:lvivska22@gmail.com)
