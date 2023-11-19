@@ -1,7 +1,7 @@
 baseURL = "https://lightbi-hugo-theme.netlify.app/"
-DefaultContentLanguage = "en"
-languageCode = "en-us"
-title = "Lightbi"
+DefaultContentLanguage = "ua"
+languageCode = "ua"
+title = "Культиваторний завод"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -18,12 +18,11 @@ Paginate = 6
 
 [Params] 
 mainSections = ["post","posts"]
-dateFormat = "2 January 2023"
 comments = false
 readingTime = false
 wordCount = false
 useHLJS = true
-socialShare = true
+socialShare = false 
 delayDisqus = true
 showRelatedPosts = true 
 summaryLength  = "9"
@@ -31,6 +30,7 @@ gcse = false
 Lastmod = false
 rss = false 
 pagination = "10"
+dateFormat = "02.01.2006"
 
 
 [sitemap]
@@ -39,15 +39,15 @@ pagination = "10"
   filename = "sitemap.xml"
 
 [Author]
-  name = "Bino Kochumol Varghese"
+  name = "Савицький ПП"
   website = "https://binovarghese.com/"
-  email = "sample@gmail.com"
-  facebook = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  twitter = "username"
-  linkedin = "username"
-  github = "username"
+  email = "lvivska22@rambler.ru"
+  # facebook = "username"
+  # instagram = "username"
+  # youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #linkedin = "username"
+  #github = "username"
   #gitlab = "username"
   #bitbucket = "username"
   #reddit = "username"
@@ -69,27 +69,27 @@ pagination = "10"
   #slack = "username"
 
 [[menu.main]]
-    name = "Home"
+    name = "Головна"
     url = "/"
     weight = 1
 
-[[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
+# [[menu.main]]
+#     name = "Notes"
+#     url = "/notes/"
+#     weight = 2
+
+# [[menu.main]]
+#     name = "Tags"
+#     url = "/tags/blog/"
+#     weight = 3
 
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
-    weight = 3
-
-[[menu.main]]
-    name = "Collections"
+    name = "Колекції"
     url = "/collections/"
     weight = 4
 
 [[menu.main]]
-    name = "About"
+    name = "Контакти"
     url = "/about/"
     weight = 5
 

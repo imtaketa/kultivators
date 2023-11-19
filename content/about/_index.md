@@ -1,8 +1,15 @@
 ---
-type : "tags"
-layout : "about"
-title: "About me"
+type: "tags"
+layout: "contacts"
+title: "Контакти"
 ---
 
-Культиваторний завод
+**Ім'я:**
+Савицький Микола Іванович
 
+**Телефони:**
+- 095 882 30 67
+- 067 716 77 01
+
+**Електронна пошта:**
+[lvivska22@rambler.ru](mailto:lvivska22@rambler.ru)
