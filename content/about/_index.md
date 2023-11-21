@@ -15,4 +15,4 @@ title: "Контакти"
 м. Кропивницький, вул. Інженерів 8
 
 **Електронна пошта:**
-[lvivska22@rambler.ru](mailto:lvivska22@gmail.com)
+[lvivska22@gmail.com](mailto:lvivska22@gmail.com)
